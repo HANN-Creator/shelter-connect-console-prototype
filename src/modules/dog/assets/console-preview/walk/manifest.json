@@ -1,0 +1,25 @@
+{
+  "action": "WALK_FRONT",
+  "character": "dubu-console-preview",
+  "source": "../dubu-pixel.png",
+  "method": "local pixel edits of the approved seed",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "displayFrameSize": [
+    256,
+    256
+  ],
+  "anchor": "bottom-center",
+  "frameCount": 7,
+  "beats": [
+    "neutral",
+    "left-lift",
+    "left-land",
+    "neutral",
+    "right-lift",
+    "right-land",
+    "neutral"
+  ]
+}

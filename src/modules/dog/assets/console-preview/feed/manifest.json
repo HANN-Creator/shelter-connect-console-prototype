@@ -1,0 +1,27 @@
+{
+  "action": "FEED",
+  "character": "dubu-console-preview",
+  "source": "../dubu-pixel.png",
+  "method": "local edits of the approved seed; no external generation",
+  "nativeFrameSize": [
+    64,
+    64
+  ],
+  "displayFrameSize": [
+    256,
+    256
+  ],
+  "anchor": "bottom-center",
+  "frameCount": 9,
+  "beats": [
+    "idle",
+    "notice",
+    "lean",
+    "crouch",
+    "bite",
+    "chew-left",
+    "chew-right",
+    "lift",
+    "idle"
+  ]
+}
